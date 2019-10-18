@@ -6,6 +6,9 @@ title: BlueSkin
 email: emma@blueskin.tech
 description: "A tool for insurance to measure risk of climate change."
 
+#google tracking analytics
+google-tracking-id: ""
+
 
 # Team names, titles and social links
 people:
